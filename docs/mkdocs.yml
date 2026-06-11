@@ -87,6 +87,7 @@ nav:
             - Email Information Extraction: tutorials/email_extraction/index.md
             - Code Generation for Unfamiliar Libraries: tutorials/sample_code_generation/index.md
             - Building a Creative Text-Based AI Game: tutorials/ai_text_game/index.md
+            - Cognitive Harness Tools with Ejentum: tutorials/ejentum_harness/index.md
     - Community:
         - Use Cases: community/use-cases.md
         - Built with DSPy: community/built-with-dspy.md
